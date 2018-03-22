@@ -1,0 +1,27 @@
+body {
+  font-family: arial;
+  font-size: 12px;
+  overflow: hidden;
+}
+
+.results {
+    overflow-y: auto;
+}
+
+button {
+  color: white;
+  background-color: blue;
+  border: none;
+  font-weight: bold;
+  height: 28px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.error {
+  color: red;
+}
